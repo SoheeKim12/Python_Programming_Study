@@ -7,7 +7,7 @@
 |1|2024.07.23|Getting & Knowing Your Data|Chipotle|Sohee|[코드](https://github.com/SoheeKim12/Python_Programming_Study/blob/main/pandas_exercises/01_Getting_%26_Knowing_Your_Data/Chipotle/Exercises.ipynb)|
 ||||Occupation|minsu||
 ||||World Food Facts|kwanization||
-|2|2024.07.30|Filtering & Sorting|Chipotle|jhkim||
+|2|2024.07.30|Filtering & Sorting|Chipotle|Sohee||
 ||||Euro12|omj||
 ||||Fictional Army|Sohee||
 |3|2024.08.06|Grouping|Alcohol_Consumption|minsu||
